@@ -1,0 +1,16 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+. filter=lfs diff=lfs merge=lfs -text
+angular filter=lfs diff=lfs merge=lfs -text
+angular/cache filter=lfs diff=lfs merge=lfs -text
+angular/cache filter=lfs diff=lfs merge=lfs -text
+.angular/cache/14.2.13/angular-webpack/6c9df703c6b43fc0314416ec6bd929374eb6f962/8.pack filter=lfs diff=lfs merge=lfs -text
+.angular/cache/14.2.13/angular-webpack/6c9df703c6b43fc0314416ec6bd929374eb6f962/2.pack filter=lfs diff=lfs merge=lfs -text
+..angular/cache/14.2.13/angular-webpack/337ed118a72d3af7758de39bdda7909cad2f6da2/0.pack filter=lfs diff=lfs merge=lfs -text
+.angular/cache/14.2.13/angular-webpack/337ed118a72d3af7758de39bdda7909cad2f6da2/0.pack filter=lfs diff=lfs merge=lfs -text
+*.pack filter=lfs diff=lfs merge=lfs -text
+*pack filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+.mp4 filter=lfs diff=lfs merge=lfs -text
+.pack filter=lfs diff=lfs merge=lfs -text
+*.attribute filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import '@firebase/auth-compat';","map":{"version":3,"names":[],"sources":["D:/Gamer`s Orbit/clips/node_modules/firebase/compat/auth/dist/esm/index.esm.js"],"sourcesContent":["import '@firebase/auth-compat';\n"],"mappings":"AAAA,OAAO,uBAAuB"},"metadata":{},"sourceType":"module"}

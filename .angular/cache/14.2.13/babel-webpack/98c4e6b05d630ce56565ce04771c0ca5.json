@@ -1,0 +1,1 @@
+{"ast":null,"code":"export * from '@firebase/analytics';","map":{"version":3,"names":[],"sources":["D:/Gamer`s Orbit/clips/node_modules/firebase/analytics/dist/esm/index.esm.js"],"sourcesContent":["export * from '@firebase/analytics';\n"],"mappings":"AAAA,cAAc,qBAAqB"},"metadata":{},"sourceType":"module"}

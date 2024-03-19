@@ -1,0 +1,1 @@
+{"ast":null,"code":"import '@firebase/firestore-compat';","map":{"version":3,"names":[],"sources":["D:/Gamer`s Orbit/clips/node_modules/firebase/compat/firestore/dist/esm/index.esm.js"],"sourcesContent":["import '@firebase/firestore-compat';\n"],"mappings":"AAAA,OAAO,4BAA4B"},"metadata":{},"sourceType":"module"}

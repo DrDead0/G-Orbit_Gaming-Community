@@ -1,0 +1,1 @@
+{"ast":null,"code":"const randomUUID = typeof crypto !== 'undefined' && crypto.randomUUID && crypto.randomUUID.bind(crypto);\nexport default {\n  randomUUID\n};","map":null,"metadata":{},"sourceType":"module"}
