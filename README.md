@@ -30,7 +30,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 To Run the This project the file Should be added into `clips` folder and then follow the upper steps .
 
 ## Project Details 
-This project was made for the college project Exibition-1 and Total 4 member worked to make this project successful.
+This project was made for the college "Project Exibition-1" and Total 4 member worked to make this project successful.
 ### Members List
   1) Rakesh Suthar
   2) Ashish Chaurasiya(Me)
