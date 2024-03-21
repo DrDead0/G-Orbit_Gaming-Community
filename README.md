@@ -1,6 +1,7 @@
 # G-Orbit(Gamer's Orbit)
 G-Orbit: A web-based gaming platform and community for players. Engage with your audience by streaming games, chatting, uploading gaming videos, and going live. Find useful materials, such as game walkthroughs.<br/>
-##### This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
+###
+# This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
 
 ## Development server
 
