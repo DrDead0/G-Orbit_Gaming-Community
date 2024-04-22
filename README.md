@@ -7,11 +7,23 @@ G-orbit Verion 1.0
 To Run the This project the file Should be added into `clips` folder and then follow the below steps .
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. Navigate to 
+```bash
+http://localhost:4200/
+```
+The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Run
+```bash
+ng generate component component-name
+```
+to generate a new component. You can also use
+
+```bash
+ng generate directive|pipe|service|class|guard|interface|enum|module
+``` 
 
 ## Build
 
