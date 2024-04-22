@@ -67,7 +67,7 @@ Or go check out the [Angular CLI Overview and Command Reference](https://angular
 ## Project Details 
 This project was made for the college "Project Exibition-1" and Total 4 member worked to make this project successful.
 ## Members List
-  1) Rakesh Suthar
-  2) Ashish Chaurasiya(Me)
-  3) Raj Mate
-  4) Ashish Nehra
+  1) Rakesh Suthar.
+  2) Ashish Chaurasiya.
+  3) Raj Mate.
+  4) Ashish Nehra.
