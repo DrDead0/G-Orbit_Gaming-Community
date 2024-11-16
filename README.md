@@ -66,7 +66,7 @@ Or go check out the [Angular CLI Overview and Command Reference](https://angular
 
 ## Project Details 
 This project was created for the "Project Exhibition-1" at our college, with a total of four team members contributing to its success.
-## Contributor List
+## Contributors
   1) Rakesh Suthar.
   2) Ashish Chaurasiya.
   3) Raj Mate.
